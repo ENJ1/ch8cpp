@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/ethanjoseph/Documents/ch8cpp'
+make: Nothing to be done for `default'.
+make: Leaving directory `/Users/ethanjoseph/Documents/ch8cpp'
+ 
